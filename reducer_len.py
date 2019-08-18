@@ -1,4 +1,6 @@
+#!/usr/bin/python
 import sys
+
 
 sum_ans=0
 count_ans=0
